@@ -45,7 +45,7 @@ negócios. Assim que estiver apresentável, sobe aqui.
 
 ### 📫 Onde me achar
 
-[LinkedIn](www.linkedin.com/in/gustavo-fariasdev) · Palhoça, SC — Brasil
+[LinkedIn]( www.linkedin.com/in/gustavo-fariasdev ) · Palhoça, SC — Brasil
 
 Aberto a oportunidades como desenvolvedor júnior.
 
